@@ -1,0 +1,1 @@
+print("KATARI YAMINI")
